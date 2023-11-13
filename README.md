@@ -18,6 +18,7 @@ https://t.ly/aY7iM  <br>
     [PROJECT DEMO](https://youtu.be/q-4BTxNSAvg)
  
 3. Embed video of project demo
+    CLICK HERE TO SEE THE VEDIO
     [PROJECT DEMO](https://youtu.be/q-4BTxNSAvg)
     [PROJECT DEMO](https://youtu.be/q-4BTxNSAvg)
 ## Libraries used
