@@ -11,7 +11,7 @@ Dino
 ## Link to product walkthrough
 ## Live
 https://t.ly/aY7iM  <br>
-[LIVE HERE](https://t.ly/aY7iM)
+[LIVE HERE](https://cerulean-druid-aa971b.netlify.app/)
 
 ## How it Works ?
 1. Explaining the working of project
